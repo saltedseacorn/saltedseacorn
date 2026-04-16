@@ -1,25 +1,21 @@
 
 ## Thank you for visiting my Github!
 
-My current tech stack: **Python, Django, PostgreSQL, AWS, Docker, Zendesk, Prefect, Honeycomb, Grafana**
+My current tech stack: Python, Django, PostgreSQL, AWS, Docker, Zendesk, Prefect, Honeycomb, Grafana.
 
-I am currently employed as **Forward Deployed Software Engineer** at a rapidly growing and successful tech start-up.
+I’m a Forward Deployed Software Engineer at a rapidly growing startup, shipping customer-facing features and fixes on 24–48 hour timelines while balancing speed, code quality, and feasibility with the resources available on any given day.
 
-My current role involves software development at a rapid speed - sometimes I deliver custom feature requests within *24-48 hours*, with the daily challenge of balancing speed, proficiency, clean code, and feasibility given the resources I have on any given day.
+I sit at the intersection of engineering and customers. I work daily with support, customer success, product, core engineering, and our customers’ own engineering leaders to translate specific needs and pain points into pragmatic, software-driven solutions.
 
-I am a strong communicator. I work daily with the support team, customer success managers, product team, core engineers and customers (who are typically engineering leaders in their own world) in order to understand and translate specific needs and pain points into a software driven solution. 
+Even though my world is engineering, my first love is people. People are complicated, deep, and a joy to work with. My specialty lies in the intersection of people and engineered solutions.
 
-Even though I work in an engineering world, my first love is for people. People are complicated, deep, complex, and a joy to work with. My speciality lies within the intersection of people and engineered solutions.
-
-I also:
-- Troubleshoot bugs and features alongside core engineering teams
-- Being a customer facing software engineer, my team is the engineering team that is closest to the voice of the customer
-- Touch on bits and pieces of the deployment pipeline like Prefect.io, Bugsnag, Docker, AWS, and more
-- Must learn quickly what I don't know and translate that knowledge into words that a customer can easily understand
-- Work well under pressure. I must always provide an answer and software driven solution for the customer and provide that in a calm, collected, and cheerful persona
-- Work in service level agreements ranging from 24 hours out to one week. I work in a rapid and face paced environment, and I do it cheerfully with my team. 
-
-That's about what I do in a nutshell!
+What I do:
+* Troubleshoot bugs and ship features alongside core engineering teams
+* Serve as a customer-facing engineer and one of the closest engineering voices to the customer
+* Touch key pieces of the deployment and observability pipeline (Prefect.io, Bugsnag, Docker, AWS, Honeycomb, Grafana)
+* Learn unfamiliar systems quickly and translate that knowledge into language customers can easily understand
+* Operate calmly under pressure while still providing clear, software-driven options and answers
+* Work within SLAs ranging from 24 hours to one week in a fast-paced environment — and do it collaboratively and cheerfully
 
 _I'm happily employed_.
 
