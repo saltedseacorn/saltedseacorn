@@ -1,7 +1,7 @@
 
 ## Thank you for visiting my Github!
 
-My current tech stack: **Python, Django, PostgreSQL, AWS, Docker, Zendesk**
+My current tech stack: **Python, Django, PostgreSQL, AWS, Docker, Zendesk, Prefect, Honeycomb, Grafana**
 
 I am currently employed as **Forward Deployed Software Engineer** at a rapidly growing and successful tech start-up.
 
